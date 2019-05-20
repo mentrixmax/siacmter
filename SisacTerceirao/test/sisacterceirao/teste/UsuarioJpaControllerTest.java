@@ -7,8 +7,8 @@ package sisacterceirao.teste;
  */
 
 
-import sisacterceirao.UsuarioJpaController;
-import sisacterceirao.Usuario;
+import sisacterceirao.dao.UsuarioJpaController;
+import sisacterceirao.to.Usuario;
 import java.util.List;
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;

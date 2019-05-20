@@ -3,8 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package sisacterceirao;
+package sisacterceirao.dao;
 
+import sisacterceirao.to.Usuario;
 import sisacterceirao.expection.NonexistentEntityException;
 import java.io.Serializable;
 import java.util.List;
